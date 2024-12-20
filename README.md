@@ -1,0 +1,2 @@
+# global
+global hunt solutions
